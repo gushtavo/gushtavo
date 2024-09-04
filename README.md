@@ -1,6 +1,8 @@
 ## Gustavo Roberto 👨🏻‍💻
+
+<img align="right" height="380" src="https://github.com/user-attachments/assets/e8f792a8-1516-4646-bd83-eda78759835c">
+
 - Estudando Análise de Dados 📊
-<img align="right" height="200" src="https://github.com/user-attachments/assets/230a6b45-d21d-481a-8a31-1aee6e398536">
 
 ### 🌐 Conecte-se Comigo
 
