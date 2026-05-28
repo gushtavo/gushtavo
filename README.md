@@ -2,7 +2,7 @@
 
 <img align="right" height="380" src="https://github.com/user-attachments/assets/e8f792a8-1516-4646-bd83-eda78759835c">
 
-- Estudando Análise de Dados 📊
+- Análista e Engenheiro de Dados 📊
 
 ### 🌐 Conecte-se Comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gushtavoroberto/)
